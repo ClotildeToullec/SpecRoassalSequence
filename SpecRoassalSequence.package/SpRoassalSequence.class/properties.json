@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "ClotildeToullec 5/6/2020 14:11",
+	"super" : "SpRoassalPresenter",
+	"category" : "SpecRoassalSequence-Presenter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"models",
+		"shapeExtent",
+		"shapeColor",
+		"shapeLabel",
+		"shapePopup"
+	],
+	"name" : "SpRoassalSequence",
+	"type" : "normal"
+}

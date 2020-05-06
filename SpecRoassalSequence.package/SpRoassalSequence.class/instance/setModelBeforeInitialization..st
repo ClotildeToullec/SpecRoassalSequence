@@ -1,0 +1,3 @@
+accessing model
+setModelBeforeInitialization: aCollectionOfModelObjects
+	models := aCollectionOfModelObjects

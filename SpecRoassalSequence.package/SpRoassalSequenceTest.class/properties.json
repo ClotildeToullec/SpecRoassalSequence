@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SpTest",
+	"category" : "SpecRoassalSequence-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SpRoassalSequenceTest",
+	"type" : "normal"
+}
